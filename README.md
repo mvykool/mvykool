@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maicol Hernandez</h1>
-<h3 align="center">A passionate front-end develope.</h3>
+<h3 align="center">A passionate front-end developer.</h3>
 
 <img align="left" alt="code" width="400" src="https://segfault.neocities.org/gallery/pixel-art/1492060824904.gif" />
 
