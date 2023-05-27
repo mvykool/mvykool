@@ -33,8 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvykool&show_icons=true&locale=en&layout=compact" alt="mvykool" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&locale=en" alt="mvykool" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvykool&" alt="mvykool" /></p>
 
 
