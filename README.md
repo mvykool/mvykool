@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maicol Hernandez</h1>
 <h3 align="center">A passionate Front-end developer.</h3>
 
-<img align="left" alt="code" width="400" src="https://segfault.neocities.org/gallery/pixel-art/1492060824904.gif" />
+<img align="left" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 
