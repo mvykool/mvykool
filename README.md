@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Maicol Hernandez</h1>
-<h3 align="center">A passionate Web developer.</h3>
+<h3 align="center">🌆 A passionate Web developer 💻.</h3>
 
 <img align="left" alt="code" width="500" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
