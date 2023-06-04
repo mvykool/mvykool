@@ -3,7 +3,7 @@
 
 <img align="center" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
-<img align="center" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
+<img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvykool" alt="mvykool" /></a> </p>
 
