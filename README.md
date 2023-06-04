@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Maicol Hernandez</h1>
 <h3 align="center">🌆 A passionate Web developer 💻</h3>
 
-<img align="left" alt="code" width="500" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
+<img align="left" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
-<img align="right" alt="code" width="500" src="https://wallpaperaccess.com/full/5927911.gif" />
+<img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvykool" alt="mvykool" /></a> </p>
 
