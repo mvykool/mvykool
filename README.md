@@ -28,4 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvykool&" alt="mvykool" /></p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&theme=dark&layout=compact)
+
 
