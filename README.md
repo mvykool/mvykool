@@ -22,10 +22,7 @@
 
 - ⚡ Fun fact **I speak Spanish, English & a little of Portuguese**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mvykool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvykool" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvykool&show_icons=true&locale=en&layout=compact" alt="mvykool" /></p>
 
