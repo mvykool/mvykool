@@ -11,9 +11,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600""/>
      <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-0A3669?style=for-the-badge&logo=location&logoColor=white&labelColor=0A3669"/>
-   </p
----
-
+   </p>
 <img align="left" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
