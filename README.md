@@ -50,9 +50,9 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 <img align="left" alt="cavnva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
           
 <br />
-#
 
-#
+
+## 👨🏻‍💻 About me
 
 - 🌱 I’m currently learning **Docker & Azure**
 
