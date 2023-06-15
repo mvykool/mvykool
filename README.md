@@ -9,8 +9,8 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
-     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=yellowc&style=for-the-badge&labelColor=488207&logo=star"/>
-     <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-COL-0000FF?style=for-the-badge&logo=location&logoColor=white"/>
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=yellow&style=for-the-badge&labelColor=488207&logo=star"/>
+     <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-0A3669?style=for-the-badge&logo=location&logoColor=white"/>
    </p
 
 ---   
