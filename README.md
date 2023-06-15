@@ -51,6 +51,8 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
           
 <br />
 <br />
+<br />
+<br />
 
 ## 👨🏻‍💻 About me
 
