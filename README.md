@@ -9,12 +9,9 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+
+         <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-purple?style=for-the-badge&logo=location&logoColor=white"/>
    </p
 
 ---   
