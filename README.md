@@ -12,7 +12,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=23E1AD0E""/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mvykool?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600""/>
      <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=blue"/>
    </p>
 
