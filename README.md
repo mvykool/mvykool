@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bold+new&color=23808080&size=45&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bold+new&color=23808080&size=30&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 # 🌆  Maicol Hernandez 💻
