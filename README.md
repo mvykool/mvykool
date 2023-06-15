@@ -8,7 +8,7 @@
 I'm a passionate web developer who crafts stunning UI and creates cool programs that make the digital world come alive. I blend artistry and technology to design immersive user experiences that leave a lasting impression. I like to explore new design trends, fueling my creativity and learning all kinds of crazy new stuff.
 
    <p align="left">
-      <img src="https://custom-icon-badges.demolab.com/label=FRONT-END&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/> 
+      <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
