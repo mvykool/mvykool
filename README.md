@@ -13,7 +13,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
      <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-0A3669?style=for-the-badge&logo=location&logoColor=white&labelColor=0A3669"/>
    </p
 
----   
+#
 
 <img align="left" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 
