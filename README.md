@@ -63,7 +63,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
-- 💬 Ask me about **React, Next, Html**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **maykolandres4@gmail.com**
 
