@@ -67,7 +67,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 - 📫 How to reach me **maykolandres4@gmail.com**
 
-- 📄 Know about my experiences [https://maicolhernandez.vercel.app/CV.pdf](https://maicolhernandez.vercel.app/CV.pdf)
+- 🦊 My other repos [https://gitlab.com](https://gitlab.com/mvykol)
 
 - ⚡ Fun fact **I speak Spanish, English & a little of Portuguese**
 
