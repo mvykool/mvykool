@@ -73,6 +73,6 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&theme=dark&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=pie&theme=dark&)
 
