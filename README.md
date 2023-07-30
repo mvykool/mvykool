@@ -56,7 +56,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m currently learning **Docker, Azure & Redis**
+- 🌱 I’m currently learning **Blazor, Azure & Redis**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
