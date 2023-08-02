@@ -76,4 +76,5 @@ $~~~~~~~~~~~$
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=donut&theme=neon)
 
