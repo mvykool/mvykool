@@ -35,7 +35,9 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 <img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
-<p>💻 Fron-end stuff</p>
+ &nbsp;
+
+<h3>💻 Fron-end stuff</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
 
