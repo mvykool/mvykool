@@ -48,7 +48,6 @@ $~~~~~~~~~~~$
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet,planetscale,supabase)](https://skillicons.dev)
 
 <h3>⚒️ Tools & others</h3>
-$~~~~~~~~~~~$
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,linux,md,netlify,postman,bash)](https://skillicons.dev)
 
