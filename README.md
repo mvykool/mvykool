@@ -18,10 +18,8 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 
-<br/>
-<br/>
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
