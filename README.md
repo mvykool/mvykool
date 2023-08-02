@@ -41,13 +41,13 @@ $~~~~~~~~~~~$
 
 <h3>💻  Fron-end stuff</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap,nextjs,vite,astro,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,bootstrap,nextjs,vite,astro,materialui)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
 <h3>🤖 Back-end & Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet,supabase)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
