@@ -18,7 +18,8 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 
-##
+<br/>
+<br/>
 
 ### 🧰 Languages and Tools
 
