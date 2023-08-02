@@ -39,49 +39,18 @@ $~~~~~~~~~~~$
 
 <h3>💻  Fron-end stuff</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap,nextjs,vite,astro,materialui,jest)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
 <h3>🤖 Back-end & Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet,planetscale)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet,planetscale,supabase)](https://skillicons.dev)
 
 <h3>⚒️ Tools & others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,linux,md,netlify,postman,)](https://skillicons.dev).
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,linux,md,netlify,postman,bash)](https://skillicons.dev).
 
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="csharp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
-<img align="left" alt="dotnet" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="next" width="40px" style="padding-right:10px;" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />      
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/800px-Microsoft_SQL_Server_Logo.svg.png" />
-<img align="left" alt="azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="gitlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img align="left" alt="bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img  align="left" alt="redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="storybook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-<img align="left" alt="sqlite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="mongo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-          
-<br />
-<br />
-<br />
-<br />
 
 ## 👨🏻‍💻 About me
 
