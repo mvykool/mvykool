@@ -19,11 +19,12 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
 </div>
 
+<p align="left">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 ## 🏆 TROPHIES
 
-<p align="left">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
   
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="left">
