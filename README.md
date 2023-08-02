@@ -68,6 +68,8 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 - ⚡ Fun fact **I speak Spanish, English & a little of Portuguese**
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvykool&theme=2077)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=dark)
 
