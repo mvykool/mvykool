@@ -74,6 +74,6 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mvykool&theme=2077&utcOffset=8)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=dark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=dark)
 
