@@ -36,8 +36,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
  </div>
 
  &nbsp;
- &nbsp;
- &nbsp;
+
 
 <h3>💻 Fron-end stuff</h3>
 
