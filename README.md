@@ -14,9 +14,10 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
    </p>
 
 # 
+<div>
 <img align="left" alt="code" width="400" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
-
 <img align="right" alt="code" width="400" src="https://wallpaperaccess.com/full/5927911.gif" />
+</div>
 
 
 ## 🧰 Languages and Tools
