@@ -36,12 +36,14 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
  </div>
 
  &nbsp;
- &emsp;
+ 
 
 
 <h3>💻 Fron-end stuff</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
+
+&emsp;
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
