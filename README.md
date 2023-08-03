@@ -26,8 +26,6 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 $~~~~~~~~~~~$
 
-<p align="left">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 ## 🏆 TROPHIES
 
@@ -35,7 +33,7 @@ $~~~~~~~~~~~$
   
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=neon&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="left">
