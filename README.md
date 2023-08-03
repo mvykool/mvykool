@@ -19,6 +19,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 <img align="right" alt="code" width="400" height="300" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
 </div>
 <img align="left" alt="code" width="400" height="300" src="https://wallpaperaccess.com/full/5927911.gif" />
+<img align="right" alt="code" width="400" height="300" src="https://cutewallpaper.org/28/cyberpunk-pixel-art-gif-wallpaper/11-cyberpunk-gifs-gif-abyss.gif" />
 
 $~~~~~~~~~~~$
 
