@@ -15,9 +15,9 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 
 # 
 <div>
-<img align="left" alt="code" width="300" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
-<img align="center" alt="code" width="400" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
-<img align="right" alt="code" width="300" src="https://wallpaperaccess.com/full/5927911.gif" />
+<img align="left" alt="code" width="300" height="300" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
+<img align="center" alt="code" width="300" height="300" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
+<img align="right" alt="code" width="300" height="300" src="https://wallpaperaccess.com/full/5927911.gif" />
 </div>
 
 $~~~~~~~~~~~$
