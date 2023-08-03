@@ -20,7 +20,7 @@ I'm a passionate web developer who crafts stunning UI and creates cool programs 
 </div>
 <img align="left" alt="code" width="410" height="300" src="https://wallpaperaccess.com/full/5927911.gif" />
 <img align="right" alt="code" width="410" height="300" src="https://cutewallpaper.org/28/cyberpunk-pixel-art-gif-wallpaper/11-cyberpunk-gifs-gif-abyss.gif" />
-<img align="center" alt="code" width="600" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="center" alt="code" width="800" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
 
 $~~~~~~~~~~~$
