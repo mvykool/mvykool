@@ -61,11 +61,11 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m currently learning **Blazor, Azure & Redis.**
+- 🌱 I’m currently learning **Blazor, Azure & Redis**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
-- 💬 Ask me about **Front-end, UI, & Node.js.**
+- 💬 Ask me about **Front-end, UI, & Node.js**
 
 - 📫 How to reach me **maykolandres4@gmail.com**
 
