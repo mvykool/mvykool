@@ -65,7 +65,7 @@ $~~~~~~~~~~~$
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
-- 💬 Ask me about **Front-end, UI, & Nodejs.**
+- 💬 Ask me about **Front-end, UI, & Node.js.**
 
 - 📫 How to reach me **maykolandres4@gmail.com**
 
