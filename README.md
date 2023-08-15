@@ -71,7 +71,7 @@ $~~~~~~~~~~~$
 
 - 🦊 My other repos [https://gitlab.com](https://gitlab.com/mvykol)
 
-- ⚡ Fun fact **I speak Spanish, English & some Portuguese**
+- ⚡ Fun fact **I speak Spanish, English & a little Portuguese**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=2077)
