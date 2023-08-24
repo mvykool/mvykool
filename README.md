@@ -50,13 +50,13 @@ $~~~~~~~~~~~$
 
 <h3>🤖 Back-end & Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,prisma,sqlite,cs,dotnet)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
 <h3>⚒️ Tools & others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,linux,md,postman,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,linux,postman,bash)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
