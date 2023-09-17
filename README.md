@@ -17,7 +17,7 @@ I'm a web developer who crafts stunning UI and creates cool programs that make t
 
 # 
 <div>
-<img src="https://github.com/mvykool/mvykool/assets/87054757/95888dea-29bb-47c4-b25d-33c6bfc07f32" alt="code" style="width: 840px; height: 450px; object-fit: cover;" />
+<img src="https://github.com/mvykool/mvykool/assets/87054757/ccc4e5f3-d39f-4375-92fd-b8083a35d9ff" alt="code" style="width: 840px; height: 450px; object-fit: cover;" />
 <img align="left" alt="code" width="420" height="250" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
 </div>
