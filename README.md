@@ -64,7 +64,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m currently learning **Blazor, Sentry & Jenkins**
+- 🌱 I’m currently learning **Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
