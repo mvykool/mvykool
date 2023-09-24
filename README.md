@@ -33,12 +33,9 @@ $~~~~~~~~~~~$
 ## 🏆 TROPHIES
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical">
-</div>
-
-
-[![](https://github-trophies.vercel.app/?username=mvykool)](https://github-trophies.vercel.app/?username=mvykool)
+<a href="https://github-trophies.vercel.app/?username=mvykool" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=mvykool&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 $~~~~~~~~~~~$
 
