@@ -37,6 +37,8 @@ $~~~~~~~~~~~$
 <img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical">
 </div>
 
+![](https://github-trophies.vercel.app/?username=mvykool)
+
 $~~~~~~~~~~~$
 
 <h3>💻  Fron-end & UI</h3>
