@@ -34,7 +34,7 @@ $~~~~~~~~~~~$
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical">
 </div>
 
 $~~~~~~~~~~~$
