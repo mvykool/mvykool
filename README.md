@@ -32,16 +32,8 @@ $~~~~~~~~~~~$
 
 ## 🏆 TROPHIES
 
-
+https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical
   
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
-
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
 
 $~~~~~~~~~~~$
 
