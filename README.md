@@ -37,7 +37,8 @@ $~~~~~~~~~~~$
 <img src="https://github-profile-trophy.vercel.app/?username=mvykool&theme=radical">
 </div>
 
-![](https://github-trophies.vercel.app/?username=mvykool)
+
+[![](https://github-trophies.vercel.app/?username=mvykool)](https://github-trophies.vercel.app/?username=mvykool)
 
 $~~~~~~~~~~~$
 
