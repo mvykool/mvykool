@@ -70,11 +70,11 @@ $~~~~~~~~~~~$
 
 - ⚡ Fun fact **I speak Spanish, English & a little Portuguese**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvykool&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mvykool&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mvykool&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mvykool&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvykool&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mvykool&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mvykool&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mvykool&theme=radical&utcOffset=8)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=neon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=neon)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=radical)
