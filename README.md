@@ -58,7 +58,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m always learning something new, currently learning **Redis, Bun, and more**
+- 🌱 I’m always learning something new, currently learning **Redis, and more**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
