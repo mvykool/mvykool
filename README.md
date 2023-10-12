@@ -22,7 +22,7 @@ I'm a web developer who crafts stunning UI and creates cool programs that make t
 <img align="right" alt="code" width="420" height="250" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
 </div>
 <img align="left" alt="code" width="420" height="250" src="https://wallpaperaccess.com/full/5927911.gif" />
-<img align="right" alt="code" width="420" height="250" src="https://cutewallpaper.org/28/cyberpunk-pixel-art-gif-wallpaper/11-cyberpunk-gifs-gif-abyss.gif" />
+<img align="right" alt="code" width="420" height="250" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
 </br>
 <p align="center"><img  alt="code" width="840" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /></p>
 
