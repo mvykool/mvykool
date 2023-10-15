@@ -58,7 +58,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m always learning something new, currently learning **Redis, and Nest**
+- 🌱 I’m always learning something new, currently learning **Nest, Redis, and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
