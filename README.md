@@ -58,7 +58,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m always learning something new, currently learning **Nest.js, and PostgreSQL**
+- 🌱 I’m always learning something new, currently learning **Nest, and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://maicolhernandez.vercel.app/](https://maicolhernandez.vercel.app/)
 
