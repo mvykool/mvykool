@@ -53,7 +53,7 @@ $~~~~~~~~~~~$
 
 <h3>⚒️ Tools & others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,postman,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,postman,bash, jest)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
