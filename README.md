@@ -41,7 +41,7 @@ $~~~~~~~~~~~$
 
 <h3>💻  Fron-end & UI</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,redux,tailwind,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
