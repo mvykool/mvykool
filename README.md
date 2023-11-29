@@ -5,7 +5,7 @@
 
 **` Cyber-artisan `**
 
-I'm a web developer who crafts stunning UI and creates cool programs that make the digital world come alive. I blend artistry and technology to develop a good user experiences. I like to explore new design trends, fueling my creativity and learning all sorts of new stuff.
+Hey there, I'm a web developer who likes to code cool UIs. I like to explore new design trends, fueling my creativity and learning all sorts of new stuff.
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
