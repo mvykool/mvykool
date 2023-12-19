@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02D108&background=000000&width=435&lines=+%3E_+Welcome+to+my+place)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Lines&pause=1000&color=00F71E&background=000000&vCenter=true&multiline=true&random=false&width=435&lines=+%3E_++++ex+nihilo+nihil+fit)](https://git.io/typing-svg)
 
 # 🌆  Maicol Hernandez 💻
 
