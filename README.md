@@ -4,7 +4,7 @@
 
 **` Cyber-artisan `**
 
-Hi there, I'm a web developer who likes to code cool things. I like to explore new design trends, fueling my creativity, and learning new things.
+Hi there, I'm a web developer who enjoys crafting innovative code. I explore emerging design trends to inspire my creativity and continuously seek opportunities to learn and grow..
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
