@@ -59,7 +59,7 @@ $~~~~~~~~~~~$
 
 - 🌱 I’m always learning something new, currently learning **Nest, Redis, and PandaCSS**
 
-- 💬 Ask me about **Front-end, UI & Node.js**
+- 💬 Ask me about **Front-end, & Node.js**
 
 - 📫 How to reach me **maykolandres4@gmail.com**
 
