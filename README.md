@@ -57,7 +57,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m always learning something new, currently learning **Nest, Redis, and PandaCSS**
+- 🌱 I’m always learning something new, currently learning **Nest 🦁**
 
 - 💬 Ask me about **Front-end, & Node.js**
 
