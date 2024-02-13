@@ -40,7 +40,7 @@ $~~~~~~~~~~~$
 
 <h3>💻  Fron-end & UI</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,sass,bootstrap,nextjs,vite,astro,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,sass,bootstrap,nextjs,vite,astro)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
@@ -52,7 +52,7 @@ $~~~~~~~~~~~$
 
 <h3>⚒️ Tools & others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,postman,bash,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,postman,bash,jest,figma)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
