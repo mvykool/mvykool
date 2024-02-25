@@ -18,7 +18,7 @@ Hi there, I'm a web developer who enjoys crafting innovative code. I explore eme
 <div>
 <img src="https://github.com/mvykool/mvykool/assets/87054757/09f6fff6-ec9d-416c-8d05-e4e6f1052bad" alt="code" style="width: 840px; height: 400px; object-fit: cover;" />
 <img align="left" alt="code" width="420" height="250" src="https://media.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif" />
-<img align="right" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" />
+<img align="right" alt="code" width="420" height="250" src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" />
 </div>
 <img align="left" alt="code" width="420" height="250" src="https://wallpaperaccess.com/full/5927911.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
