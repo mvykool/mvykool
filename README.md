@@ -57,7 +57,7 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 ## 👨🏻‍💻 About me
 
-- 🌱 I’m always learning something new, currently learning **Nest, & Django**
+- 🌱 I’m always learning something new, currently learning **Django**
 
 - 💬 Ask me about **Front-end, & Node.js**
 
