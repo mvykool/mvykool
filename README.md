@@ -46,7 +46,7 @@ $~~~~~~~~~~~$
 
 <h3>🤖 Back-end & Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,mysql,python)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
