@@ -4,7 +4,7 @@
 
 **` Cyber-artisan `**
 
-I'm a web developer who enjoys crafting innovative code. I explore emerging design trends to inspire my creativity and continuously seek opportunities to learn and grow.
+I'm a web developer who enjoys crafting innovative code. I explore emerging design trends to inspire my creativity.
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
