@@ -20,7 +20,7 @@ I'm a web developer who likes to code cool stuff.
 <img align="left" alt="code" width="420" height="250" src="https://i.imgur.com/dWwvgd7.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" />
 </div>
-<img align="left" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif" />
+<img align="left" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/df/66/1b/df661b213ee05573007418bcd5cca532.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
 </br>
 <p align="center"><img  alt="code" width="840" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /></p>
