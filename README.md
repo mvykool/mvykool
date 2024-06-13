@@ -16,7 +16,7 @@ I'm a web developer who likes to code cool stuff.
 
 # 
 <div>
-<img src="https://github.com/mvykool/mvykool/assets/87054757/7656a676-0911-4577-b614-8a4180bf8a43" alt="setup" style="width: 840px; height: 400px; object-fit: cover;"/>
+<img src="https://github.com/mvykool/mvykool/assets/87054757/c187cde5-4b9a-4522-aab4-47f6cc022953" alt="setup" style="width: 840px; height: 400px; object-fit: cover;"/>
 <img align="left" alt="code" width="420" height="250" src="https://i.imgur.com/dWwvgd7.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" />
 </div>
