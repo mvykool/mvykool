@@ -2,7 +2,7 @@
 
 # 🌆  Maicol Hernandez 💻
 
-**` Cyber-artisan `**
+**` Cyber-artist `**
 
 I'm a web developer who likes to code cool stuff.
 
