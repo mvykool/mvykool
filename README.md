@@ -55,17 +55,6 @@ $~~~~~~~~~~~$
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,postman,bash,jest,figma)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
-## 👨🏻‍💻 About me
-
-- 🌱 I’m always learning something new, currently learning **Nest**
-
-- 💬 Ask me about **Front-end, & Node.js**
-
-- 📫 How to reach me **maykolandres4@gmail.com**
-
-- 🦊 My other repos [https://gitlab.com](https://gitlab.com/mvykol)
-
-- ⚡ Fun fact **I speak Spanish, English & a little bit of Portuguese**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvykool&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=radical)
