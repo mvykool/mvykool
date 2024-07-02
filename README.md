@@ -4,7 +4,7 @@
 
 **` Cyber-artist `**
 
-I'm a web developer who likes to code cool things.
+A web developer who likes to code cool things.
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
