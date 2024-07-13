@@ -17,7 +17,7 @@ Web developer who likes to code cool things.
 # 
 <div>
 <img src="https://github.com/mvykool/mvykool/assets/87054757/c187cde5-4b9a-4522-aab4-47f6cc022953" alt="setup" style="width: 840px; height: 400px; object-fit: cover;"/>
-<img align="left" alt="code" width="420" height="250" src="https://i.imgur.com/dWwvgd7.gif" />
+<img align="left" alt="code" width="420" height="250" src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-19.gif" />
 <img align="right" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" />
 </div>
 <img align="left" alt="code" width="420" height="250" src="https://i.pinimg.com/originals/df/66/1b/df661b213ee05573007418bcd5cca532.gif" />
