@@ -12,7 +12,7 @@ Web developer who likes to code cool things.
      <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Medellin-Col-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=blue"/>
 </p>
 
-<img align="center" height="350" src="https://spotify-github-profile.vercel.app/api/view?uid=td03971l1rpnxr4fz4605tdmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=3a9037"/>
+<img align="center" height="350" src="https://spotify-github-profile.kittinanx.com/api/view?uid=td03971l1rpnxr4fz4605tdmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=3a9037"/>
 
 # 
 <div>
