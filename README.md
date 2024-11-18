@@ -52,5 +52,5 @@ $~~~~~~~~~~~$
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mvykool&theme=2077&utcOffset=8)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=2077)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=2077)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&layout=compact&theme=tokyonight)
