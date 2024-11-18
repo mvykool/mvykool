@@ -28,16 +28,6 @@ Web developer who likes to code cool things.
 
 $~~~~~~~~~~~$
 
-
-## 🏆 TROPHIES
-
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<a href="https://github-trophies.vercel.app/?username=mvykool" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=mvykool&theme=radical&margin-w=4&margin-h=4">
-</a>
-
-$~~~~~~~~~~~$
-
 <h3>💻  Fron-end & UI</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,sass,nextjs,vite,astro,jest,)](https://skillicons.dev)
