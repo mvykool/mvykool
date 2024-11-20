@@ -32,7 +32,6 @@ $~~~~~~~~~~~$
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux)](https://skillicons.dev)
 
-
 [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,nextjs,vite,astro,jest,)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
