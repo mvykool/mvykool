@@ -4,7 +4,7 @@
 
 **` Cyber-artist `**
 
-Web developer who likes to code cool things.
+Hey, I'm mvykool, and I love to code cool things.
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-maykolandres4@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/> 
