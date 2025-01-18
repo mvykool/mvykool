@@ -44,7 +44,7 @@ $~~~~~~~~~~~$
 
 <h3>⚒️ Tools & More</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,figma,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,figma)](https://skillicons.dev)
 
 $~~~~~~~~~~~$
 
