@@ -45,6 +45,12 @@ $~~~~~~~~~~~$
 
 $~~~~~~~~~~~$
 
+<h3>📚 Currently learning </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nix,rust)](https://skillicons.dev)
+
+$~~~~~~~~~~~$
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mvykool&theme=2077)
