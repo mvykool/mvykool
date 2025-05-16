@@ -23,7 +23,6 @@
 <p align="center"><img  alt="code" width="840" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /></p>
 
 
-$~~~~~~~~~~~$
 
 <h3>💻  Fron-end & UI</h3>
 
@@ -31,25 +30,25 @@ $~~~~~~~~~~~$
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,sass,nextjs,vite,astro,jest,vitest)](https://skillicons.dev)
 
-$~~~~~~~~~~~$
+
 
 <h3>🤖 Back-end & Databases</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,mysql,postgres)](https://skillicons.dev)
 
-$~~~~~~~~~~~$
+
 
 <h3>⚒️ Tools & More</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,figma)](https://skillicons.dev)
 
-$~~~~~~~~~~~$
+
 
 <h3>📚 Currently learning </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nix,rust)](https://skillicons.dev)
 
-$~~~~~~~~~~~$
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mvykool&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mvykool&theme=2077)
