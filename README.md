@@ -46,7 +46,7 @@ $~~~~~$
 
 <h3>📚 Currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nix,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,rust,aws)](https://skillicons.dev)
 
 $~~~~~$
 
