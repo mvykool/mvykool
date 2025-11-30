@@ -9,7 +9,7 @@
      <img alt="located" title="located" src="https://custom-icon-badges.demolab.com/badge/Athens-GA-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=blue"/>
 </p>
 
-<p align="center"><img height="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=td03971l1rpnxr4fz4605tdmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=3a9037"/></p>
+<!--<p align="center"><img height="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=td03971l1rpnxr4fz4605tdmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=3a9037"/></p>-->
 
 <div>
 <img src="https://github.com/mvykool/mvykool/assets/87054757/c187cde5-4b9a-4522-aab4-47f6cc022953" alt="setup" style="width: 840px; height: 400px; object-fit: cover;"/>
