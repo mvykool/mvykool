@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Lines&pause=1000&color=00F71E&background=000000&vCenter=true&multiline=true&random=false&width=435&lines=+%3E_++++ex+nihilo+nihil+fit)](https://git.io/typing-svg)
+2[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Lines&pause=1000&color=00F71E&background=000000&vCenter=true&multiline=true&random=false&width=435&lines=+%3E_++++ex+nihilo+nihil+fit)](https://git.io/typing-svg)
 
 # Michael Hernandez
  **`Cyber-artist`**
@@ -45,7 +45,7 @@ $~~~~~$
 
 <h3>📚 Currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nix,rust,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,rust,c++,aws,terraform)](https://skillicons.dev)
 
 $~~~~~$
 
