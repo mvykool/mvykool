@@ -38,13 +38,13 @@ $~~~~~$
 
 <h3>⚒️ Tools & More</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,figma,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,nix)](https://skillicons.dev)
 
 $~~~~~$
 
 <h3>📚 Currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,aws,terraform,cpp,c,docker,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,aws,terraform,c,docker,redis)](https://skillicons.dev)
 
 $~~~~~$
 
