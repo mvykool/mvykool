@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Lines&pause=1000&color=00F71E&background=000000&vCenter=true&multiline=true&random=false&width=435&lines=+%3E_++++ex+nihilo+nihil+fit)](https://git.io/typing-svg)
 
 # Michael Hernandez
- **`Cyber-artist`**
 
    <p align="left">
       <img src="https://custom-icon-badges.demolab.com/badge/-hernandez.a.michael@outlook.com-purple?style=for-the-badge&logo=mention&logoColor=white"/> 
