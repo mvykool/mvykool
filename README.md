@@ -36,7 +36,7 @@ $~~~~~$
 
 $~~~~~$
 
-<h3>⚒️ Tools & More.</h3>
+<h3>⚒️ Tools & More</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,git,linux,arch,postman,bash,nix)](https://skillicons.dev)
 
