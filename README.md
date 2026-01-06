@@ -26,13 +26,13 @@ $~~~~~$
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,nextjs,vite,astro,jest,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,nextjs,vite,astro,vitest)](https://skillicons.dev)
 
 $~~~~~$
 
 <h3>🤖 Back-end & Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres)](https://skillicons.dev)
 
 $~~~~~$
 
